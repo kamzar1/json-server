@@ -623,7 +623,7 @@ You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholde
 * [Create a Mock REST API in Seconds for Prototyping your Frontend](https://coligo.io/create-mock-rest-api-with-json-server/)
 * [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.93d7w8oro)
 * [Zero Code REST With json-server](https://dzone.com/articles/zero-code-rest-with-json-server)
-
+* [kamzar-javapoint](https://www.javatpoint.com/json-server)
 ### Third-party tools
 
 * [Grunt JSON Server](https://github.com/tfiwm/grunt-json-server)
